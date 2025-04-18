@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MiguelMP3Bot 🎧
 
 Un bot Telegram qui te permet de télécharger l'audio de vidéos YouTube directement depuis Telegram.
@@ -8,3 +9,6 @@ Un bot Telegram qui te permet de télécharger l'audio de vidéos YouTube direct
 
 ## Déploiement :
 - Prêt pour Render ou pour être lancé en local
+=======
+# MiguelMP3Bot
+>>>>>>> 538d40cc44145a1316a96d55da33869af127b764
